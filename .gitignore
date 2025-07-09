@@ -1,0 +1,15 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# virtuelle Umgebungen
+venv/
+.venv/
+
+# Lockfiles (z.B. uv.lock)
+uv.lock
+
+# Editor- und Betriebssystem-Dateien
+.vscode/
+.DS_Store
+*.log
